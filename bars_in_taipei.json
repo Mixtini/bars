@@ -1,0 +1,1807 @@
+{
+  "total": 142,
+  "bars": [
+    {
+      "name": "23 Public | Craft Beer 精釀吧",
+      "address": "No. 332號, Section 2, Fuxing S Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJDXs0zoipQjQReZ7caWwoRug"
+    },
+    {
+      "name": "89 Loop Sports Bar",
+      "address": "2樓 No. 134號羅斯福路四段",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJedbePJCpQjQRrRcjOMhmHTE"
+    },
+    {
+      "name": "ABV Bar & Kitchen",
+      "address": "No. 16, Lane 236, Section 1, Dunhua S Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhdSMjJerQjQROHORrIvofsA"
+    },
+    {
+      "name": "ABV Bar & Kitchen - ABV Caribbean",
+      "address": "No. 61號, Lane 233, Section 1, Dunhua S Rd",
+      "rating": 4.6,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJA47M5cWrQjQR5MwWM9SBgKU"
+    },
+    {
+      "name": "Al Cicchetto Huashan Bistro",
+      "address": "No. 40號, Section 1, Bade Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhxzRL3upQjQRKQOB-m7B2oM"
+    },
+    {
+      "name": "Antique Bar 1900",
+      "address": "Section 1, Dihua St, 34號3樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "cafe",
+        "home_goods_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJOflkh_-pQjQR5G0cSdfFdVQ"
+    },
+    {
+      "name": "AWT Bistro下班後餐酒館",
+      "address": "Lane 27, Chengdu Rd, 11號1樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJN2JuVoupQjQR0mZsZrYMxf4"
+    },
+    {
+      "name": "Aye Taipei Bar & Restaurant",
+      "address": "No. 15, Lane 138, Linsen N Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ1aAxzRCpQjQRUFCLQyeCIl8"
+    },
+    {
+      "name": "Azeroth Bar",
+      "address": "No. 4, Section 1, Hankou St",
+      "rating": 5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJwYANYGGpQjQRNDcUyhZYwQA"
+    },
+    {
+      "name": "B612 Restaurant &Bar|餐酒館|酒吧|餐廳|",
+      "address": "敦化南路1段157號1樓",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ8Rj6E8arQjQRLJpWwZcs6GA"
+    },
+    {
+      "name": "Backyard Jr. (Xinyi)",
+      "address": "Songshou Rd, 9號3樓",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJW6liErqrQjQRyTxtlyOVOac"
+    },
+    {
+      "name": "Bar 98",
+      "address": "Bangka Blvd, 167號5樓",
+      "rating": 3.2,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ84WwVK6pQjQR5U9a-YOC6oY"
+    },
+    {
+      "name": "Bar After Nine Whisky & Cocktail Bistro",
+      "address": "No. 152號, Section 2, Xinyi Rd",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJDUO2ZoKpQjQRP7vDYznleeQ"
+    },
+    {
+      "name": "Bar ansleep",
+      "address": "No. 20-1號, Lane 13, Shuangcheng St",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "cafe",
+        "liquor_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJr2-OxESpQjQRgvtsp4Pk3c8"
+    },
+    {
+      "name": "BAR ATM Taipei",
+      "address": "No. 21號, Lane 190, Section 1, Dunhua S Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJL_YwpJirQjQRj3In2u0_wRQ"
+    },
+    {
+      "name": "Bar Bodega",
+      "address": "B1, No. 34號, Lane 27, Section 4, Ren'ai Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJN-k7lNirQjQRBnzTsMwPhjA"
+    },
+    {
+      "name": "BAR FEST",
+      "address": "Section 3, Tingzhou Rd, 149號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJI6uZDn2pQjQRoPrPEusSV4c"
+    },
+    {
+      "name": "Bar Freedom",
+      "address": "No. 11號, Lane 45, Section 2, Zhongshan N Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhaKmL3apQjQRihDS09VbZJk"
+    },
+    {
+      "name": "Bar Histoire 隅意",
+      "address": "Alley 4, Lane 133, Section 4, Nanjing E Rd, 24號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJfb-nMCOrQjQRzNQnaYiggYI"
+    },
+    {
+      "name": "Bar Mood Taipei",
+      "address": "No. 53號, Lane 160, Section 1, Dunhua S Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJgbsg4tqrQjQRNTNaBAUYOfA"
+    },
+    {
+      "name": "BAR SPEAKEASY 2",
+      "address": "No. 83號, Zhensan St",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJFTEaX1gfaDQRV1yPIqZj8Hw"
+    },
+    {
+      "name": "Bar Turning Point",
+      "address": "No. 8-7號, Lane 77, Section 2, Zhongshan N Rd",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJdQvxnkKpQjQRs-dA8hNn_8E"
+    },
+    {
+      "name": "Bar Way Home",
+      "address": "No. 61號, Lane 81, Section 2, Dunhua S Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJC4ZS9J2rQjQR3rjXKYaMkU4"
+    },
+    {
+      "name": "Bar Wish慾室",
+      "address": "一樓, No. 10號, Lane 34, Section 2, Hankou St",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJRdc_BaGpQjQROY7lmj83okY"
+    },
+    {
+      "name": "BeerCat",
+      "address": "No. 8號, Chang'an W Rd",
+      "rating": 4.1,
+      "types": [
+        "bar",
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJC8a48mupQjQR5XdApmNZl8k"
+    },
+    {
+      "name": "Bibber Dessert Bar · 酒徒的點心店 by Vivid Hermit Saloon Co., Ltd",
+      "address": "No. 397號, Section 4, Xinyi Road",
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJU4h4iZSrQjQR0a9p8sJrazg"
+    },
+    {
+      "name": "Blu Bar",
+      "address": "Chunde Rd, 101號3樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJmaxzF2MhaDQRgiK1BVKZHg0"
+    },
+    {
+      "name": "Blush bar",
+      "address": "No. 20, No. 20, Lane 133, Linsen N Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJQ_nZ-2WpQjQRrDdHAlDy714"
+    },
+    {
+      "name": "Book Bar",
+      "address": "No. 30號, Lane 269, Section 5, Roosevelt Rd",
+      "rating": 5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4ctGzIirQjQRFD2FppLTgrc"
+    },
+    {
+      "name": "Book ing bar",
+      "address": "Lane 190, Section 1, Dunhua S Rd, 45號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJdQruf2irQjQR5LIOoB0hvLs"
+    },
+    {
+      "name": "Book ing Bar Zhongshan",
+      "address": "Minsheng W Rd, 78號二樓之4 ～我們在2樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJTccAEoupQjQRYFtsS1MLYsQ"
+    },
+    {
+      "name": "Bouti Bar Taipei - 璞邸旅店1F /北車精釀/瓶裝啤酒",
+      "address": "No. 7號, Section 1, Chongqing S Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJWUO_75ipQjQRc8xy30Imvpw"
+    },
+    {
+      "name": "Bravo Beer - Keelung",
+      "address": "Zhongzheng Rd, 3號2樓",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJA_NuesSrQjQRuXxT27wDH1A"
+    },
+    {
+      "name": "BravoCafe draft beer bar",
+      "address": "No. 371號, Section 7, Zhongxiao E Rd",
+      "rating": 4.7,
+      "types": [
+        "restaurant",
+        "liquor_store",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJbZT4cGerQjQRbnqoTY6Ikag"
+    },
+    {
+      "name": "BUDA 好運豬酒吧Taproom & Wine",
+      "address": "Section 1, Xinhai Rd, 41-1號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJGwW03u-pQjQR0XUYFzugf3c"
+    },
+    {
+      "name": "CANA BISTRO 迦拿餐酒館｜新世界葡萄酒｜紐澳葡萄酒｜葡萄酒吧",
+      "address": "Lane 91, Dalong St, 2號1樓",
+      "rating": 4.8,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUZovyaitQjQRSowwTtk3hL0"
+    },
+    {
+      "name": "Chance Cafe & Bar - Chengdu Branch",
+      "address": "No. 10號, Lane 27, Chengdu Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJE5SnZcKpQjQRYhh7waN5beE"
+    },
+    {
+      "name": "Chillax Beer Bar",
+      "address": "No. 21號, Gangqian Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJqXhjS9-tQjQRsNjlWB311gE"
+    },
+    {
+      "name": "City North",
+      "address": "Lane 362, Minsheng W Rd, 15號2樓",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJTUlgXBSpQjQRfez8pxDXnZ0"
+    },
+    {
+      "name": "Dancing Elephant Wine Bar 跳舞大象葡萄酒專賣",
+      "address": "No. 2號, Alley 8, Lane 106, Section 4, Bade Rd",
+      "rating": 4.7,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJScX67-rQjQR0iD2exjo-40"
+    },
+    {
+      "name": "Fancy Hip Tiger Bar (Outside)",
+      "address": "No. 68號, Section 5 of Zhongxiao East RoadSection 5 of Zhongxiao E Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJi6dpyLurQjQRUK77JsVVuMI"
+    },
+    {
+      "name": "First One Bistro",
+      "address": "No. 5號, Alley 6, Lane 18, Nanjing W Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJnVQpHWypQjQRn0j-pRlAbqw"
+    },
+    {
+      "name": "FuMu",
+      "address": "No. 103號, Xing'an St",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ1xsJ1xqrQjQRdBaIh8DWYNI"
+    },
+    {
+      "name": "G CLUB BAR 西門 酒吧 運動賽事直播 飛鏢 撞球場 台球 pool 聚會 場地活動租借",
+      "address": "b1, No. 54號, Section 2, Hankou St",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJwb-OqlypQjQRubzj0ds1HO4"
+    },
+    {
+      "name": "GiliGili韓國釜山餐酒館",
+      "address": "Tianjin St, 16號一樓",
+      "rating": 4.1,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ30DoS26pQjQRNxLXPpiA4vs"
+    },
+    {
+      "name": "Grey Cola Food & Bar",
+      "address": "Lane 83, Section 2, Hankou St, 10號1F",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJfWCMNGGpQjQRF3b9BCnteOo"
+    },
+    {
+      "name": "HANSUM Shisha Bar 한숨",
+      "address": "No. 10號, Alley 6, Lane 170, Section 4, Zhongxiao E Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJBVauy7qrQjQRTt7B-xmK-HY"
+    },
+    {
+      "name": "HW Lounge 雪茄咖啡館｜Bar｜Cigar｜Coffee｜Wine｜Cocktail",
+      "address": "Section 2, Zhongshan N Rd, 89號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJR-mKpiCpQjQRk2V0J5Emh0Y"
+    },
+    {
+      "name": "Intention",
+      "address": "敦化南路1段219號2樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tlpk8arQjQRuez5jq7aRbc"
+    },
+    {
+      "name": "INTOX-爵士酒吧-Jazz Bar-Live Jazz-調酒-雞尾酒-包場派對",
+      "address": "No. 85號, Nanjing W Rd",
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJdQX0LtCrQjQRLNEDqZNzjMo"
+    },
+    {
+      "name": "Ireland's Potato and Bar",
+      "address": "No. 18號, Songshou Rd",
+      "rating": 3.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJMRP5wLCrQjQRm0QcwFAGr2Q"
+    },
+    {
+      "name": "Isotope bar",
+      "address": "No. 101號, Chang'an W Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJN5r1PEGpQjQRpzAbtZnjjEM"
+    },
+    {
+      "name": "James Joyce Irish Bar-Anhe 安和酒吧",
+      "address": "和平東路三段70號",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJRQDmvEqrQjQRFVLOsJ2Ufc8"
+    },
+    {
+      "name": "Jellyfish Bistro&Bar桃園水母餐酒館｜酒吧｜",
+      "address": "No. 262號, Fuxing Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJDbuGQYQfaDQR9JnNDAbgS4U"
+    },
+    {
+      "name": "Joiny Taipei 招台北餐酒館",
+      "address": "Section 1, Da'an Rd, 73號2樓",
+      "rating": 4.9,
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJL8XQG96rQjQR3Pefv2NemuQ"
+    },
+    {
+      "name": "JupJup Craft Beer Bar & Bistro",
+      "address": "忠孝西路一段72-26號",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJOcyDMg2pQjQRq2oC7XMuUBk"
+    },
+    {
+      "name": "La Salle 森酒吧",
+      "address": "No. 123號, Section 1, Zhongshan N Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJKZF820epQjQRExgdKtuJr1M"
+    },
+    {
+      "name": "Lane 72 Bistro",
+      "address": "No. 74號, Songjiang St",
+      "rating": 4.8,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJtxM-HzCpQjQRFSIGuNMr5zY"
+    },
+    {
+      "name": "Le Chamber 餐酒館",
+      "address": "No. 152號之1, Section 2, Dunhua S Rd",
+      "rating": 4.8,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ66xKPo6rQjQR_2ovVsiiK-o"
+    },
+    {
+      "name": "Le Wine Bar",
+      "address": "No. 12號, Lane 191, Section 3, Chengde Rd",
+      "rating": 5,
+      "types": [
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJp_xM3oipQjQR_CxHfpAnukU"
+    },
+    {
+      "name": "Learn Bar 學吧精釀",
+      "address": "Section 2, Xinyi Rd, 253號1樓",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJB7IBH9-pQjQRL0n2iEDRAog"
+    },
+    {
+      "name": "Lebeer東區精釀餐酒館",
+      "address": "No. 50號, Lane 190, Section 1, Dunhua S Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "liquor_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ2x4b1GmrQjQRukd8iZLakA8"
+    },
+    {
+      "name": "Leone Restaurant & Bar｜台北餐酒館 ｜酒吧｜ 餐廳 ｜餐酒館 ｜中山美食｜中山餐酒館｜ 林森北酒吧",
+      "address": "No. 20號, Lane 353, Linsen N Rd",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJpSovG2ypQjQRpjSy5jvQbTU"
+    },
+    {
+      "name": "LION BAR",
+      "address": "No. 36號-88, Xining Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ-5rV6x2pQjQR6aCWqqGt_xo"
+    },
+    {
+      "name": "Little Girl",
+      "address": "No. 185號, Section 2, Fuxing S Rd",
+      "rating": 4.8,
+      "types": [
+        "restaurant",
+        "liquor_store",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJXXDtix-rQjQRTjIfplCAMFI"
+    },
+    {
+      "name": "Lounge Vino",
+      "address": "Section 1, Jianguo N Rd, 61號8樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJB6MlnqurQjQRzQTRTV9yw1A"
+    },
+    {
+      "name": "Made Paris",
+      "address": "Section 4, Zhongxiao E Rd, 250號1F-3",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJa1J86vOrQjQRM8hvqEVCiB4"
+    },
+    {
+      "name": "Mikkeller Bar Taipei",
+      "address": "No. 241號, Nanjing W Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJS1XdlxOpQjQRKpJFi303cII"
+    },
+    {
+      "name": "Mix Bistro",
+      "address": "Section 1, Chenggong Rd, 5號2F",
+      "rating": 4.5,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJfRr3ZPweaDQRHALCCOtSLUU"
+    },
+    {
+      "name": "Modism Muses 摩德年代繆斯餐酒館",
+      "address": "No. 433號, Section 5, Zhongshan N Rd",
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJdTXvLTqvQjQRPsaWnHK0cBI"
+    },
+    {
+      "name": "Neon cafe & Bar",
+      "address": "No. 20之5號, Lane 25, Nanjing W Rd",
+      "rating": 3.9,
+      "types": [
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJra-JjmmpQjQRgk1P0_dtQ3U"
+    },
+    {
+      "name": "NOMOU SAKEBAR 飲もう日本酒吧",
+      "address": "No. 2-2號, Lane 125, Nong'an St",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJnyDBB7ypQjQR-E91NYAu11Q"
+    },
+    {
+      "name": "Nonsense Cafe & Bar - Wuchang Branch",
+      "address": "Section 2, Wuchang St, 100號2樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJjcl1sTSpQjQRFB3dxAXfNPI"
+    },
+    {
+      "name": "Odin Bistro",
+      "address": "No. 152號, Dadong Rd",
+      "rating": 4.8,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJuTv1NLuuQjQRgFqC2vVgK1E"
+    },
+    {
+      "name": "Ola Piano Bar",
+      "address": "Section 4, Ren'ai Rd, 29號B1",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJVRrDB9GrQjQR0IiU3Ngem0k"
+    },
+    {
+      "name": "Ole Rum Bar & Liquor Store (Rum Bottles) A selection of more than 600 different Rum’s are available by glass to drink neat!!!",
+      "address": "Lane 109, Section 1, Anhe Rd, 4號1樓",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "liquor_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJN-4uPaWuQjQRl5vzIpBxpFM"
+    },
+    {
+      "name": "OMAR Bistro",
+      "address": "No. 3號, Alley 20, Lane 223, Section 4, Zhongxiao E Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJNzkXf0SrQjQREtl9gse8gfo"
+    },
+    {
+      "name": "ON TAP",
+      "address": "No. 21, Alley 11, Lane 216, Section 4, Zhongxiao E Rd",
+      "rating": 4.2,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJuaugn8irQjQRGK9M9fzfO6c"
+    },
+    {
+      "name": "OriginBAR 源",
+      "address": "No. 31號, Alley 5, Lane 133, Section 4, Nanjing E Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJx8pbTeqrQjQRIP5yMs2d9Ag"
+    },
+    {
+      "name": "PawBar",
+      "address": "Emei St, 86號b1",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJmQIZ7hupQjQRgOSaCBDzGlE"
+    },
+    {
+      "name": "Placebo 安慰劑小酒館",
+      "address": "No. 83, Section 2, Keelung Rd",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJNRpN8cqrQjQRduh0hf7EWco"
+    },
+    {
+      "name": "R BAR",
+      "address": "Lane 470, Section 5, Zhongshan N Rd, 8號1樓",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJSWC_6CGvQjQRsDMl6CUA5v8"
+    },
+    {
+      "name": "Relay Taîpas 西班牙創意餐酒館 Tapas Bar",
+      "address": "No. 22號, Lane 6, Siwei Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJMRSIEiirQjQRuNFcUzgpO2M"
+    },
+    {
+      "name": "RIRIcafe’ 儷儷點點行餐酒館",
+      "address": "No. 85號, Yuying St",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJF2S3YWQfaDQRq3dtsfhQYSw"
+    },
+    {
+      "name": "Salon et Tutu 酴塗小酒館",
+      "address": "No. 92號, Anxi St",
+      "rating": 4.9,
+      "types": [
+        "cafe",
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJmV5fjMepQjQR7HBsw97ZM6Q"
+    },
+    {
+      "name": "Sea Cup Island 美式餐酒館 Bistro & Bar（寵物友善餐廳/酒吧推薦/士林酒吧/包場慶生聚會餐廳）",
+      "address": "No. 389號, Zhongzheng Rd",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ61i1RPmvQjQRIQ1Vj2cHuKA"
+    },
+    {
+      "name": "Secret bistro",
+      "address": "Zhongyuan St, 139號1樓",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJKcsLFoOpQjQRMLHHajEu2X0"
+    },
+    {
+      "name": "Serious Bistro",
+      "address": "No. 96-1號, Section 1, Xianmin Blvd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ482xUZIDaDQRWZNczGBHz9w"
+    },
+    {
+      "name": "SipSip Bar & Restaurant",
+      "address": "1F-1, 中四D館, No. 一號, Section 1, Bade Rd",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJv10eiOavQjQRWPeSuK74gO8"
+    },
+    {
+      "name": "sneaKOut BAR",
+      "address": "ZhiFu Rd, 200號4樓",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJHwwNXFatQjQRE4BWeGVeFTM"
+    },
+    {
+      "name": "Starry night Bar",
+      "address": "No. 89號, Chang'an W Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUcXTiw2pQjQRVVjUIwylSE0"
+    },
+    {
+      "name": "Story Coffee & Bar",
+      "address": "No. 74號, Section 1, Minquan E Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJnSXOBSapQjQREypodLqU1NQ"
+    },
+    {
+      "name": "sunset",
+      "address": "No. 122號, Section 2, Xianmin Blvd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJMckpVkipQjQRws-oRKfVNj4"
+    },
+    {
+      "name": "Super 346啤酒文創館",
+      "address": "No. 40號, Lane 25, Songjiang Rd",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJicRc8mKpQjQR-s7HjilrnYo"
+    },
+    {
+      "name": "TEA BAR",
+      "address": "和平東路三段66號1樓",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4URM9TGqQjQRyXNVSp3IEfk"
+    },
+    {
+      "name": "The 41 Bistro",
+      "address": "No. 41號, Dehe Rd",
+      "rating": 4.7,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJkwOb0eCpQjQRiNsALAyD-CY"
+    },
+    {
+      "name": "The A.G's Bar",
+      "address": "No. 1號, Lane 26, Yixian Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJMVIWoL-rQjQRw4GWKV--vMg"
+    },
+    {
+      "name": "The Garden",
+      "address": "No. 33號, Lane 10, Chengdu Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJz4xbvAmpQjQRhd0ch1fs3Is"
+    },
+    {
+      "name": "THE LOUNGE 大廳酒吧-台北六福萬怡酒店",
+      "address": "Section 7, Zhongxiao E Rd, 359號7樓",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ_fiu6l2rQjQRDO3sQXN-2EI"
+    },
+    {
+      "name": "The Okura Prestige Taipei The Pearl Lounge & Bar",
+      "address": "Section 1, Nanjing E Rd, 9號1F",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJXyK30WipQjQRbN8CRBDHczQ"
+    },
+    {
+      "name": "The park J 咖啡餐酒館/西門町酒吧/調酒",
+      "address": "No. 5號, Lane 120, Section 2, Wuchang St",
+      "rating": 5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJAZ8VyuapQjQRgi6S5W59zag"
+    },
+    {
+      "name": "The Picnic Lab",
+      "address": "No. 88號, Section 2, Linghang N Rd",
+      "rating": 4.6,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJTX8YUg0haDQRoZpXyUdJNPo"
+    },
+    {
+      "name": "The Roof 190 星空酒吧",
+      "address": "Station E Rd, 190號R樓",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJOwl2j2nnZzQRuJ7cokQAtdk"
+    },
+    {
+      "name": "THE SHRINE - BAR",
+      "address": "No. 132號, Shida Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ5b4oR46pQjQR9zSWhfKwP6s"
+    },
+    {
+      "name": "The Speakeasy Irish Bar",
+      "address": "No. 554號, Guangfu S Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJkUY2n8mrQjQRfdm_GBHuAi0"
+    },
+    {
+      "name": "the Weekend Nights | 內湖港墘酒吧",
+      "address": "No. 711號, Section 1, Neihu Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUW2eMoKtQjQRym3ZOWkZA4k"
+    },
+    {
+      "name": "The Wild Boar 野豬精釀啤酒餐酒館",
+      "address": "Section 1, Zhongshan Rd, 128號1樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJRZHDHIapQjQRz-GQziRwnmU"
+    },
+    {
+      "name": "Tipsy Dragon Bar",
+      "address": "Section 5, Nanjing E Rd, 399-5號1樓",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYzlIdQyrQjQRjRtxsqDXlyc"
+    },
+    {
+      "name": "Tomato Hill",
+      "address": "No. 31號, Lane 85, Section 1, Xingnan Rd",
+      "rating": 4.9,
+      "types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJbZ-7K2EDaDQRCONNKup1KiI"
+    },
+    {
+      "name": "Tonight Bistro.",
+      "address": "Yanji St, 157之1號",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJy9_lCo-rQjQR8qFcjcINiy0"
+    },
+    {
+      "name": "Unicorn Cafe & Bar",
+      "address": "No. 482號, Siyuan Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJoeJBmiipQjQR93CHcP-tgDU"
+    },
+    {
+      "name": "Unwined Bar & Vintner",
+      "address": "No. 148, Section 2, Dunhua S Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJP-3F5iSrQjQRsK89Dp6P6Rg"
+    },
+    {
+      "name": "URBAN331 BAR (慕軒飯店 MADISON TAIPEI HOTEL)",
+      "address": "敦化南路1段331號",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJMZOp7c2rQjQRKY3jQ_fm7_U"
+    },
+    {
+      "name": "Vanish Cafe & Bar",
+      "address": "Lane 18, Nanjing W Rd, 8-2號一樓",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYV3O6KGpQjQREKNjT5bTn3Y"
+    },
+    {
+      "name": "Vault cafe & Bar",
+      "address": "No. 22, Wanquan St",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJVbLiBUKpQjQRcK-xe8lHu3c"
+    },
+    {
+      "name": "W XYZ(SM) Bar",
+      "address": "No. 1號, Lane 300, Daye Rd",
+      "rating": 4.1,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJlSpITFauQjQRTjanvld-xWc"
+    },
+    {
+      "name": "XD－Bar",
+      "address": "Section 5 of Zhongxiao East RoadSection 5 of Zhongxiao E Rd, 8號統一時代百貨夢廣場2樓",
+      "rating": 5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJaU-S89CrQjQRiHZ4mx1FpGs"
+    },
+    {
+      "name": "Yan's Wine Bar 燕子愛紅酒",
+      "address": "No. 299號, Section 2, Tingzhou Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ15eJGcKpQjQRAHsxhgI9Xzo"
+    },
+    {
+      "name": "YEN Bar 紫艷酒吧",
+      "address": "No. 10號, Section 5 of Zhongxiao East RoadSection 5 of Zhongxiao E Rd",
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJqTbY1NirQjQR6-75i_FQm64"
+    },
+    {
+      "name": "人文工坊/板橋美食/板橋酒吧/板橋餐廳/板橋餐酒館",
+      "address": "Lane 34, Gongyuan St, 26號B1",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJa7dK3R2oQjQRQorTTG7y-Ts"
+    },
+    {
+      "name": "來吧台北日式餐酒館-酒吧調酒暢飲 taipeibar 約會餐廳 必訪信義區酒吧 PTT Dcard 台北酒吧 台北餐酒館 taipeifood 國父紀念館酒吧 國父紀念館餐酒館 大安酒吧 信義區餐酒館 信義區暢飲",
+      "address": "No. 4號, Lane 415, Guangfu S Rd",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ-YN_QsirQjQRbdUKc_4n_cw"
+    },
+    {
+      "name": "叁外 Bistro (小酒館)",
+      "address": "No. 37號, Minzu Rd",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYZeD7FQBaDQRmhCI3nvfB44"
+    },
+    {
+      "name": "囍翻台式小酒館-桃園藝文店",
+      "address": "No. 21號, Zhongning St",
+      "rating": 4.8,
+      "types": [
+        "liquor_store",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJ1awGwYfaDQR6I6TXDLgk4Y"
+    },
+    {
+      "name": "寓曰 Cafe’ Bar Restaurant",
+      "address": "No. 34號, Section 4, Civic Blvd",
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ3dzOKb-rQjQR67kBqHTSWjg"
+    },
+    {
+      "name": "左轉靠右咖啡酒吧",
+      "address": "No. 6-1號, Fuhui Rd",
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJx4ikmHOpQjQR__Cb8TOW754"
+    },
+    {
+      "name": "布娜飛比利時餐酒館汐止遠雄店bravobeer",
+      "address": "No. 99號, Section 1, Xintaiwu Rd",
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYTl8PBmoQjQRuAG7Y8pmTE8"
+    },
+    {
+      "name": "橙子美式炭烤餐廳-柴烤Smoke BBQ/餐酒館",
+      "address": "No. 26號, Lane 318, Section 2, Zhongshan Rd",
+      "rating": 4.9,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJpfppbfqpQjQRChyH8U-5uZI"
+    },
+    {
+      "name": "渡船人-景觀-咖啡廳-酒吧-",
+      "address": "Lane 21, Duchuantou St, 7號條街，入口在{豐食屋}內，走進來上三樓搭船碼頭橫的這3樓",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJKw6Ji0ilQjQRFQ-95RFjXv4"
+    },
+    {
+      "name": "滬曉悅餐酒館Restaurant & Bar｜林口好吃餐廳酒吧推薦｜林口美食｜林口宵夜 中菜 聚餐 聚會 調酒 PTT Dcad",
+      "address": "1樓, No. 518號, Section 2, Ren'ai Rd",
+      "rating": 4.8,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJEW6EaKSnQjQRXkphxquxNW8"
+    },
+    {
+      "name": "璽愛私餚-餐酒館",
+      "address": "No. 30號, Lane 343, Jilin Rd",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ7d_0mIupQjQRvMY90fb9yIc"
+    },
+    {
+      "name": "石洞PUB(My Place)",
+      "address": "Lane 32, Shuangcheng St, 3之1號",
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJy9R0E0WpQjQRiMl78V_lyvc"
+    },
+    {
+      "name": "美人魚小酒館",
+      "address": "No. 17號, Taiyuan Rd",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJlS13OzupQjQRJ76DZRo-pHE"
+    },
+    {
+      "name": "藍爵 Blue Jazz 世界精釀啤酒餐酒館",
+      "address": "No. 200號, Daxue Rd",
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJja4zV54daDQRPZXfJ0bHe9o"
+    },
+    {
+      "name": "規矩‧全日餐酒館",
+      "address": "No. 142號, Lane 660, Dongtai St",
+      "rating": 4.8,
+      "types": [
+        "restaurant",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ2eKlYKYZaDQRddmRzCxVOH8"
+    },
+    {
+      "name": "覓‘s咖啡小酒館 Miss Coffee Bar",
+      "address": "No. 一號, Lane 49, Shuangcheng St",
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ44iRpoapQjQRNBR1tdCuLac"
+    },
+    {
+      "name": "討酒吧 Tao jiu bar (松菸設計點店)",
+      "address": "Guangfu S Rd, 133號松山文創園區",
+      "rating": 5,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJdUGcTRSrQjQRbuJnlAdS-x8"
+    },
+    {
+      "name": "說吧 Dime Tapas Bar",
+      "address": "No. 139號, Tongan St",
+      "rating": 4.8,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ52ARFLGrQjQRh0ijHH_p-Cg"
+    },
+    {
+      "name": "這是你的Chill box｜餐酒館｜西餐廳｜酒吧｜活動包場｜求婚包場",
+      "address": "No. 2號, Daren 5th St",
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJeV-jUHUjaDQRrBdEDqcSOBc"
+    },
+    {
+      "name": "醉好 Another Round",
+      "address": "No. 13號, Lane 19, Section 1, Da'an Rd",
+      "rating": 4.8,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJCRKASPSrQjQRBwl5Ls2HO5k"
+    },
+    {
+      "name": "阿薄郎台式小酒館-台北一郎忠孝店 (Uncle A-Bo-Lang Taiwan Bistro)",
+      "address": "Section 4, Zhongxiao E Rd, 177號2樓之2",
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ9fR92e-rQjQRzpZ68cCiSJE"
+    },
+    {
+      "name": "鹿餐酒館/永和酒吧/駐唱歌手/專業調酒/飛鏢酒吧/專業餐點",
+      "address": "No. 71號, Yongzhen Rd",
+      "rating": 5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJlyuTJbupQjQRNPghMrE2F20"
+    },
+    {
+      "name": "龍星Bar",
+      "address": "Linsen N Rd, 132號2樓",
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJfTAhD8KpQjQRxR79eA9ZiKI"
+    }
+  ]
+}
